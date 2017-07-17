@@ -39,4 +39,4 @@ The scripts are documented as per Figure 3 (Overview schematic diagram) image in
     *-- experimental_results/*  
 
 **Data description and annotation labels:**  
-Please refer to this [link](http://gofile.me/33gFK/bkolBxAMx) for the outputs and annotations obtained
+Please refer to this [link](http://128.125.20.152:5001/fsdownload/bkolBxAMx/SAIL_animation_movie_character_database) for the outputs and annotations obtained
