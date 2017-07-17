@@ -1,6 +1,6 @@
+**Unsupervised Discovery of Character Dictionaries in Animation Movies**  
 **Author:** Krishna Somandepalli  
 **Project Wiki:**  
-**Data repo:** http://gofile.me/33gFK/Anj1ABkEv
 
 **Affilitation:**  
 Signal Analysis and Interpretation Laboratory (SAIL)  
@@ -39,4 +39,4 @@ The scripts are documented as per Figure 3 (Overview schematic diagram) image in
     *-- experimental_results/*  
 
 **Data description and annotation labels:**  
-Please refer to this link for the outputs and annotations obtained
+Please refer to this [link](http://gofile.me/33gFK/Anj1ABkEv) for the outputs and annotations obtained
