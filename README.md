@@ -1,6 +1,6 @@
 **Unsupervised Discovery of Character Dictionaries in Animation Movies**  
 **Author:** Krishna Somandepalli  
-**Project Wiki:**  
+**Project Wiki:** https://github.com/usc-sail/mica-animation/wiki  
 
 **Affilitation:**  
 Signal Analysis and Interpretation Laboratory (SAIL)  
