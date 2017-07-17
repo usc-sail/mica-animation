@@ -1,21 +1,21 @@
-Author: Krishna Somandepalli
-Project Wiki: 
+Author: Krishna Somandepalli  
+Project Wiki:  
 
-Affilitation: Signal Analysis and Interpretation Laboratory (SAIL)
-University Southern California (USC)
-Los Angeles, CA, USA
-Contact: somandep@usc.edu
+Affilitation:  
+Signal Analysis and Interpretation Laboratory (SAIL)  
+University Southern California (USC)  
+Los Angeles, CA, USA  
+Contact: somandep@usc.edu  
 
-This repository contains data relevant for publication titled:
-
+This repository contains data relevant for publication titled:  
 "Unsupervised Discovery of Character Dictionaries in Animation Movies"  
-Krishna Somandepalli, Naveen Kumar, Tanaya Guha, Shrikanth Naryanan
-SAIL, USC, Los Angeles, CA, USA
+Krishna Somandepalli, Naveen Kumar, Tanaya Guha, Shrikanth Naryanan  
+SAIL, USC, Los Angeles, CA, USA  
 
 As of July 17 2017, this paper was accepted for publication in the IEEE Transactions in Multimedia pending modifications  
 
 Please refer to the paper to understand the different steps in the methodology and the referred scripts
-The scripts are documented as per Figure 3 (Overview schematic diagram) image in the paper
+The scripts are documented as per Figure 3 (Overview schematic diagram) image in the paper  
 
 Scripts:  
 1) MultiBox DNN Object Detector:  
