@@ -4,9 +4,7 @@ Project Wiki:
 Affilitation: Signal Analysis and Interpretation Laboratory (SAIL)
 University Southern California (USC)
 Los Angeles, CA, USA
-E-mail: somandep@usc.edu
-
-Latest update: July 2017
+Contact: somandep@usc.edu
 
 This repository contains data relevant for publication titled:
 
