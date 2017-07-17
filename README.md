@@ -1,14 +1,15 @@
-Author: Krishna Somandepalli  
-Project Wiki:  
+**Author:** Krishna Somandepalli  
+**Project Wiki:**  
+**Data repo:** http://gofile.me/33gFK/Anj1ABkEv
 
-Affilitation:  
+**Affilitation:**  
 Signal Analysis and Interpretation Laboratory (SAIL)  
 University Southern California (USC)  
 Los Angeles, CA, USA  
 Contact: somandep@usc.edu  
 
 This repository contains data relevant for publication titled:  
-"Unsupervised Discovery of Character Dictionaries in Animation Movies"  
+*"Unsupervised Discovery of Character Dictionaries in Animation Movies"  
 Krishna Somandepalli, Naveen Kumar, Tanaya Guha, Shrikanth Naryanan  
 SAIL, USC, Los Angeles, CA, USA  
 
@@ -17,25 +18,25 @@ As of July 17 2017, this paper was accepted for publication in the IEEE Transact
 Please refer to the paper to understand the different steps in the methodology and the referred scripts
 The scripts are documented as per Figure 3 (Overview schematic diagram) image in the paper  
 
-Scripts:  
+**Scripts:  **  
 1) MultiBox DNN Object Detector:  
-    -- video_deep_multibox_detect.py  
+    *-- video_deep_multibox_detect.py*  
 2) Coarse detection of character candidates:  
-    -- choose_object_candidates.py  
+    *-- choose_object_candidates.py*  
 3) Saliency Constraints  
-    -- choose_object_candidates_SAL.py  
+    *-- choose_object_candidates_SAL.py*  
 4) Local Tracking in video  
-    -- easy_video_object_local_tracking.py  
+    *-- easy_video_object_local_tracking.py*  
 5) Clustering character candidates  
-    -- experimenter_cluster_candidates.py  
+    *-- experimenter_cluster_candidates.py*  
 6) Peformance Analysis Measures  
-    -- performance_analysis_measures.py  
+    *-- performance_analysis_measures.py*  
 
-Other directories:  
+**Other directories:**  
 1) Mechanical Turk (MTurk) annotations and parsing scripts in directory:  
-    -- mturk_annotations/  
+    *-- mturk_annotations/*  
 2) Clustering results in:  
-experimental_results/  
+    *-- experimental_results/*  
 
-Data description and annotation labels:   
+**Data description and annotation labels:**   
 Please refer to this link for the outputs and annotations obtained
