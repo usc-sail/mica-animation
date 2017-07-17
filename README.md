@@ -12,11 +12,12 @@ This repository contains data relevant for publication titled:
 Krishna Somandepalli, Naveen Kumar, Tanaya Guha, Shrikanth Naryanan
 SAIL, USC, Los Angeles, CA, USA
 
-As of July 17 2017, this paper was accepted for publication in the IEEE Transactions in Multimedia pending modifications
+As of July 17 2017, this paper was accepted for publication in the IEEE Transactions in Multimedia pending modifications  
 
 Please refer to the paper to understand the different steps in the methodology and the referred scripts
 The scripts are documented as per Figure 3 (Overview schematic diagram) image in the paper
 
+Scripts:  
 1) MultiBox DNN Object Detector:  
     -- video_deep_multibox_detect.py  
 2) Coarse detection of character candidates:  
@@ -30,10 +31,11 @@ The scripts are documented as per Figure 3 (Overview schematic diagram) image in
 6) Peformance Analysis Measures  
     -- performance_analysis_measures.py  
 
-Mechanical Turk (MTurk) annotations and parsing scripts in directory:
-mturk_annotations/
-Clustering results in:
-experimental_results/
+Other directories:  
+1) Mechanical Turk (MTurk) annotations and parsing scripts in directory:  
+    -- mturk_annotations/  
+2) Clustering results in:  
+experimental_results/  
 
-Data and annotation labels:
+Data description and annotation labels:   
 Please refer to this link for the outputs and annotations obtained
