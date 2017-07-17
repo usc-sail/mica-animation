@@ -10,7 +10,7 @@ Contact: somandep@usc.edu
 
 This repository contains data relevant for publication titled:  
 *"Unsupervised Discovery of Character Dictionaries in Animation Movies"  
-Krishna Somandepalli, Naveen Kumar, Tanaya Guha, Shrikanth Naryanan  
+Krishna Somandepalli, Naveen Kumar, Tanaya Guha, Shrikanth Naryanan*  
 SAIL, USC, Los Angeles, CA, USA  
 
 As of July 17 2017, this paper was accepted for publication in the IEEE Transactions in Multimedia pending modifications  
@@ -18,7 +18,7 @@ As of July 17 2017, this paper was accepted for publication in the IEEE Transact
 Please refer to the paper to understand the different steps in the methodology and the referred scripts
 The scripts are documented as per Figure 3 (Overview schematic diagram) image in the paper  
 
-**Scripts:  **  
+**Scripts:**  
 1) MultiBox DNN Object Detector:  
     *-- video_deep_multibox_detect.py*  
 2) Coarse detection of character candidates:  
@@ -38,5 +38,5 @@ The scripts are documented as per Figure 3 (Overview schematic diagram) image in
 2) Clustering results in:  
     *-- experimental_results/*  
 
-**Data description and annotation labels:**   
+**Data description and annotation labels:**  
 Please refer to this link for the outputs and annotations obtained
