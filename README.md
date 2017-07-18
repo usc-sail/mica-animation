@@ -40,4 +40,4 @@ The scripts are documented as per Figure 3 (Overview schematic diagram) image in
 
 **Data description and annotation labels:**  
 First, fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdrqlSnjxoWJiCJ7NfwIkFPasFWI9My58Gns1ayc8R7VagL6A/viewform) with the required information to receive the password.  
-Then, use the password download the data at this [link](https://128.125.20.152:5001/sharing/khXraiWim) for the outputs and annotations used in the system evaluation of the paper  
+Then, use the password to download the data at this [link](https://128.125.20.152:5001/sharing/khXraiWim) for the outputs and annotations used in the system evaluation of the paper  
